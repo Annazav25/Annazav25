@@ -1,4 +1,4 @@
-[Header](https://github.com/Annazav25/Annazav25/blob/master/assets/header.jpg)
+[![Header](https://github.com/Annazav25/Annazav25/blob/master/assets/header.jpg)]
 
 About me
 
